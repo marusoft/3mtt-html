@@ -15,7 +15,7 @@
 
 
 ### DEMO LINK
-[my web-app](appexample.com)
+[my web-app](https://marusoft.github.io/3mtt-kehinde-app/)
 
 ### Steps for deploying to github
 - `git init`
