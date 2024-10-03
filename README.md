@@ -6,13 +6,11 @@
 ##### My Project
 ###### My Project
 
-
 ### Tool used
 - HTML
 - CSS
 - GIT
 - COMMAND LINE TOOLS
-
 
 ### DEMO LINK
 [my web-app](https://marusoft.github.io/3mtt-kehinde-app/)
